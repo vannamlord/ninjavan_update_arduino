@@ -8,7 +8,7 @@ arduino_port_1 = '/dev/ttyACM0'
 arduino_port_2 = '/dev/ttyACM1'
 
 # Path to the hex file (compiled Arduino sketch)
-hex_file = '/home/admin1/Desktop/dws_record/show_size.ino.hex'
+hex_file = '/home/admin1/Desktop/dws_record/code_file_hex.ino.hex'
 
 def upload_code():
     try:
